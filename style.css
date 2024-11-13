@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-Regular.ttf');
+}
+* {
+    font-family: Roboto, sans-serif;
+}
+.navbar-nav {
+    gap: 4rem;
+}
+body {
+    background: url("images/background.svg") no-repeat top right;
+}
+
+.mt-15 {
+    margin-top: 15rem;
+}
+.mt-18 {
+    margin-top: 34rem;
+}
+.mt-6 {
+    margin-top: 5rem;
+}
+.modified-gap {
+    gap: 2rem;
+}
+.mt-22 {
+    margin-top: 22rem;
+}
+.background {
+    background: url("images/Rectangle.png") no-repeat center;
+    background-size: 100% 100%;
+}
+.pr-2 {
+    padding-right: 2rem;
+}
+.footer-background {
+    background-color: #E7ECFF;
+}
+.pb-10 {
+    padding-bottom: 10rem;
+}
+
+.primary-color-1 {
+    background-color: #E7ECFF;
+}
+
+.primary-color-2 {
+    background-color: #111B47;
+}
+.btn-outline-modified {
+    width: 11rem;
+    height: 2rem;
+    border: 2px solid #091133;
+    border-radius: 0.2rem;
+}
+.btn-empty {
+    background-color: white;
+    color: #091133;
+}
+.btn-filled {
+    background-color: #091133;
+    color: white;
+}
+.btn-sm {
+    width: 8rem;
+    height: 2rem;
+}
+.slider-modified {
+    color: #091133;
+}
+
